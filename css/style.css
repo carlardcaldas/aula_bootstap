@@ -1,0 +1,42 @@
+.navbar{
+    background-color: #8AF1EE;
+}
+
+
+
+.sobre{
+    background-color: rgb(253, 197, 223);
+}
+
+
+.margin{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: mediumorchid;
+}
+
+.servicos{
+    background-color: paleturquoise;
+}
+
+.clientes{
+    background-color: royalblue;
+}
+
+.contato{
+    background-color: salmon;
+
+}
+
+.time{
+    background-color: silver;
+
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
